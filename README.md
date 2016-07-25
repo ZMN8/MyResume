@@ -30,15 +30,15 @@
 * 负责把视觉设计师的效果图转化成HTML，CSS和JS等符合W3C标准的、兼容主流浏览器的前端代码。
 
 
-#### “微付客”web网页
+#### [“微付客”web网页](https://github.com/ZMN8/WeChatPay.git)
   应用JQuery动画效果：淡入淡出，图片轮播,整体移动；
 
 
-### “跳板网”移动端网页
+### [“跳板网”移动端网页](https://github.com/ZMN8/TiaoBanWeb.git)
   应用JavaScript脚本实现自适应布局，利用jQuery脚本实现简单的网页的交互性
  
  
-### “超级囤货日”web活动页面
+### [“超级囤货日”web活动页面](https://github.com/ZMN8/SuperSave.git)
   应用了DIV+CSS布局
  
 ---
@@ -69,5 +69,5 @@
  
 ---
 
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+# 致谢:rose:
+感谢您花时间阅读我的简历，期待能有机会和您共事。:smiley:
