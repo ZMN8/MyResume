@@ -34,11 +34,11 @@
   应用JQuery动画效果：淡入淡出，图片轮播,整体移动；
 
 
-### [“跳板网”移动端网页](https://github.com/ZMN8/TiaoBanWeb.git)
+#### [“跳板网”移动端网页](https://github.com/ZMN8/TiaoBanWeb.git)
   应用JavaScript脚本实现自适应布局，利用jQuery脚本实现简单的网页的交互性
  
  
-### [“超级囤货日”web活动页面](https://github.com/ZMN8/SuperSave.git)
+#### [“超级囤货日”web活动页面](https://github.com/ZMN8/SuperSave.git)
   应用了DIV+CSS布局
  
 ---
